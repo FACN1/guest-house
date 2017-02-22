@@ -21,5 +21,6 @@ There is a general kitty used to buy food and household essentials such as toile
 
 ### Beer Tally System
 
-There is a beer tally on the _closed door outside the kitchen_. When you take a beer, add a line to your tally. When you pay off your debt to the beer kitty, cross off your tally - and start again.
+There is a beer tally on the _closed door outside the kitchen_. When you take a beer, add a line to your tally. When you pay off your debt to the beer kitty, cross off your tally - and start again. Beers are currently priced at 3 šql each, that is the price at which they are bought from the _supermarket by Mary's Well_. 
+**It is important to take back the bottles and crate when buy new beers, in order to get the best price**
 
